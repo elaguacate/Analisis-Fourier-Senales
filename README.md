@@ -13,4 +13,4 @@ Este proyecto analiza señales utilizando Python y la Transformada de Fourier.
 - Linealidad
 - Desplazamiento temporal
 
-Autor: Sergio
+Autor: Sergio Ponce
